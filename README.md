@@ -32,3 +32,7 @@ My favorite animal:
 My favorite food:
 + :strawberry:	
 
+## What I have completed:
+| Opened a pull request | Created a new markdown file in this repository | Created my profile README | Create a new repository |
+|---|---|---|---|
+| yes | yes | yes | yes |
