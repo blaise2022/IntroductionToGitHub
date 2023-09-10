@@ -4,6 +4,7 @@ My name is Blaise and I am a junior.
 I have many hobbies, so I can not pick a favorite at this moment.
 Working on my first project of the year currently. 
 
+# Questions!!
 
 ## Who?
 Blaise
@@ -14,9 +15,20 @@ Now
 ## Where? 
 _Texas_
 
+# Favorites!
+
 > [!IMPORTANT]
 My favorite emojis:
 - :stuck_out_tongue_closed_eyes:
-- :hugs:	:expressionless:
-- :partying_face:	
+- :hugs:
+- :expressionless:
+- :partying_face:
+
+> [!IMPORTANT]
+My favorite animal:
+* :frog:
+
+> [!IMPORTANT]
+My favorite food:
++ :strawberry:	
 
